@@ -1,0 +1,121 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is Solid Snake&#039;s real name?",
+      "correct_answer": "David",
+      "incorrect_answers": [
+        "Solid Snake",
+        "John",
+        "Huey"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Faust is a playable character in &quot;Guilty Gear Xrd Revelator&quot;.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "An eggplant is a vegetable.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the Swedish word for &quot;window&quot;?",
+      "correct_answer": "F&ouml;nster",
+      "incorrect_answers": [
+        "H&aring;l",
+        "Sk&auml;rm",
+        "Ruta"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which one of these rulers did not belong to the Habsburg dynasty?",
+      "correct_answer": "Philip V",
+      "incorrect_answers": [
+        "Charles V",
+        "Philip II",
+        "Francis Joseph"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In the show Stranger Things, what is Eleven&#039;s favorite breakfast food?",
+      "correct_answer": "Eggo Waffles",
+      "incorrect_answers": [
+        "Toast",
+        "Captain Crunch",
+        "Bacon and Eggs"
+      ]
+    },
+    {
+      "category": "Entertainment: Musicals & Theatres",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In Les Mis&eacute;rables, who is Prison Code 24601?",
+      "correct_answer": "Jean Valjean",
+      "incorrect_answers": [
+        "Marius Pontmercy",
+        "Javert",
+        "Jean Claude Van Damme"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The towns of Brugelette, Arlon and Ath are located in which country?",
+      "correct_answer": "Belgium",
+      "incorrect_answers": [
+        "Andorra",
+        "France",
+        "Luxembourg"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What year was the RoboSapien toy robot released?",
+      "correct_answer": "2004",
+      "incorrect_answers": [
+        "2000",
+        "2001",
+        "2006"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Psych-Horror &quot;Eternal Darkness: Sanity&#039;s Requiem&quot;, developed by Silicon Knights in 2002, was published by who and on what platform?",
+      "correct_answer": "Nintendo&reg; Co. Ltd. | GameCube&trade;",
+      "incorrect_answers": [
+        "Sony&reg; Computer Entertainment&trade; Inc. | PlayStation&reg; 2",
+        "Microsoft&reg; Game Studios&trade; | XBox&trade;",
+        "Sega&reg; Enterprises Co. Ltd. | Dreamcast&trade;"
+      ]
+    }
+  ]
+}
